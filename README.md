@@ -22,6 +22,8 @@ class Me extends YetAnotherFullStackDeveloper {
   #personalInfo;
 
   constructor() {
+    super();
+
     this.isAvailable = true;
     this.currentProject = 'VR-Chitect';
   }
