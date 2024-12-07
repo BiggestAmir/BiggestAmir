@@ -10,7 +10,7 @@
 🎓 - Master's degree in Computer Science (Software Engineering) <br/>
 🤔 - Interested in Algorithms - Software Architectures - Distributed Systems<br/>
 ❓ - Available for work: 
-$${\color{blue}true}$$ 
+$${\color{blue}false}$$ 
 <br/>
 
 
